@@ -2,21 +2,6 @@
 
 ![GitHub Actions for Docs and Linting](https://img.shields.io/github/actions/workflow/status/opencontainers/image-spec/docs-and-linting.yml?branch=main&label=GHA%20docs%20and%20linting)
 ![License](https://img.shields.io/github/license/opencontainers/image-spec)
-[![Go Reference](https://pkg.go.dev/badge/github.com/opencontainers/image-spec.svg)](https://pkg.go.dev/github.com/opencontainers/image-spec)
-
-The OCI Image Format project creates and maintains the software shipping container image format spec (OCI Image Format).
-
-**[The specification can be found here](spec.md).**
-
-This repository also provides [Go types](specs-go), [intra-blob validation tooling, and JSON Schema](schema).
-The Go types and validation should be compatible with the current Go release; earlier Go releases are not supported.
-
-Additional documentation about how this group operates:
-
-- [Code of Conduct][code-of-conduct]
-- [Roadmap](#roadmap)
-- [Releases](RELEASES.md)
-- [Project Documentation](project.md)
 
 ## Running an OCI Image
 
